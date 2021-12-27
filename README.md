@@ -21,13 +21,13 @@ vika维格表是新一代的数据生产力平台，像电子表格一样。
 
 目前的工具集如下：
 
-- [📬**活动邀请&扫码签到**](https://github.com/Niko030303/invitation-and-sign-in) - 批量生成二维码、批量发送邀请邮件、扫码签到
+- [📬**活动邀请&扫码签到**](https://github.com/Niko030303/invitation-and-sign-in)（批量生成二维码、批量发送邀请邮件、扫码签到）
 
-- [🛒**商品扫码录入**](https://github.com/Niko030303/product-scan-code-entry) - 批量生成二维码、扫码录入表格
+- [🛒**商品扫码录入**](https://github.com/Niko030303/product-scan-code-entry)（批量生成二维码、扫码录入表格）
 
-- 👷**商品批量自动上架（施工中）** - 
+- 👷**商品批量自动上架（施工中）**
 
-- 👷**直播数据回传（施工中）** - 
+- 👷**直播数据回传（施工中）**
 
 ## 交流社区
 
